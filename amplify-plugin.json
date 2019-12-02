@@ -1,0 +1,9 @@
+{
+    "name": "terraformprovider",
+    "type": "provider",
+    "commands": [
+        "version",
+        "help"
+    ],
+    "eventHandlers": []
+}
